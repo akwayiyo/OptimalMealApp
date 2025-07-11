@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "OptimalMealApp.Controllers.OptimizeController",
+    "Method": "Optimize",
+    "RelativePath": "api/Optimize",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "OptimalMealApp.Controllers.OptimizeController\u002BIngredientInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

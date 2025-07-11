@@ -1,0 +1,6 @@
+@OptimalMealApp_HostAddress = http://localhost:5150
+
+GET {{OptimalMealApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|c:\\users\\andile mofokeng\\source\\repos\\optimalmealapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|c:\\users\\andile mofokeng\\source\\repos\\optimalmealapp\\controllers\\optimizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|solutionrelative:controllers\\optimizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|c:\\users\\andile mofokeng\\source\\repos\\optimalmealapp\\optimal-meal-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|solutionrelative:optimal-meal-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|c:\\users\\andile mofokeng\\source\\repos\\optimalmealapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|c:\\users\\andile mofokeng\\source\\repos\\optimalmealapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|c:\\users\\andile mofokeng\\source\\repos\\optimalmealapp\\optimalmealapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|solutionrelative:optimalmealapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|c:\\users\\andile mofokeng\\source\\repos\\optimalmealapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72A5F3E9-5ACD-4C35-B809-D8F49EF3B385}|OptimalMealApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\optimal-meal-frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "optimal-meal-frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\optimal-meal-frontend\\src\\App.js",
+              "RelativeToolTip": "optimal-meal-frontend\\src\\App.js",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-11T12:58:19.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T12:44:15.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T12:42:14.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T12:40:21.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OptimalMealApp.http",
+              "DocumentMoniker": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\OptimalMealApp.http",
+              "RelativeDocumentMoniker": "OptimalMealApp.http",
+              "ToolTip": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\OptimalMealApp.http",
+              "RelativeToolTip": "OptimalMealApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-11T12:40:01.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:38:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OptimizeController.cs",
+              "DocumentMoniker": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\Controllers\\OptimizeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OptimizeController.cs",
+              "ToolTip": "C:\\Users\\Andile Mofokeng\\source\\repos\\OptimalMealApp\\Controllers\\OptimizeController.cs",
+              "RelativeToolTip": "Controllers\\OptimizeController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:36:58.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
