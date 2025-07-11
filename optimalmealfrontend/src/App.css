@@ -1,0 +1,62 @@
+.app {
+    font-family: "Segoe UI", sans-serif;
+    text-align: center;
+    padding: 2rem;
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    color: #555;
+    margin-bottom: 1rem;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+    button:disabled {
+        background-color: #888;
+        cursor: not-allowed;
+    }
+
+.results {
+    margin-top: 2rem;
+    text-align: left;
+}
+
+    .results h2 {
+        color: #333;
+    }
+
+.recipe-list {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+}
+
+.recipe-item {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+}
+
+    .recipe-item:last-child {
+        border-bottom: none;
+    }
+
+.error {
+    color: red;
+    margin-top: 1rem;
+}
